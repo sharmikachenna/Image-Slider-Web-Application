@@ -49,8 +49,7 @@ Users can navigate images using **Next/Previous buttons**, **dots**, or let it s
 ## 🌐 Live Demo
 You can view the live slider here:  
 
-[Image Slider](https://sharmikachenna.github.io/Image-Slider-Web-Application/
-)  
+👉[Image Slider](https://sharmikachenna.github.io/Image-Slider-Web-Application/)  
 
 
 
