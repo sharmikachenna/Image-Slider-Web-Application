@@ -39,12 +39,6 @@ Users can navigate images using **Next/Previous buttons**, **dots**, or let it s
 
 ---
 
-## 📝 Notes
-- Images are currently loaded from `https://picsum.photos/` as placeholders. Replace with your own images by changing the `src` attribute.  
-- Fully customizable slider width, height, and speed via CSS and JavaScript.  
-- Designed to work on desktop, tablet, and mobile screens.
-
----
 
 ## 🌐 Live Demo
 You can view the live slider here:  
